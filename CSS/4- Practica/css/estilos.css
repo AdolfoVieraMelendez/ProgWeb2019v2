@@ -1,0 +1,29 @@
+body{
+    background: black;
+    font-family: Verdana;
+}
+
+h1{
+    text-align: center;
+    background: blue;
+    color: white;
+    padding: 18px;
+}
+
+p{
+    color: white;
+}
+
+p a{
+    color: white;
+    background: orange;
+    font-size: 2em;
+}
+
+p.pa1{
+    font-size: 20px;
+}
+
+p.pa2{
+    color: green;
+}
